@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there. I'm Filipe Torres, Computer Engineering student at the Federal University of Pará
+  Hi there. I'm Filipe Torres, Computer Enginering student at the Federal University of Pará
 </h2>
 <p align="center">  
   I'm just a latin american boy
