@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there. I'm Filipe Torres, Computer Enginering student at the Federal University of Pará
+  Hi there. I'm Filipe Torres, Computer Engineering student at the Federal University of Pará
 </h2>
 <p align="center">  
   I'm just a latin american boy
@@ -17,6 +17,7 @@
 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/-linux-white?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">    
+  <img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" alt="Git">    
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">    
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="Javascript">
