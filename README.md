@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there. I'm Filipe Torres, Computer Engineering student at the Federal University of Pará
+  Hi there. I'm Filipe Torres, graduating in Computer Engineering at UFPA/Tucuruí.
 </h2>
 <p align="center">  
   I'm just a latin american boy
@@ -26,6 +26,6 @@
   <img src="https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql" alt="MySQL">
   <!--img src="https://visitor-badge.glitch.me/badge?page_id=filipetorresbr.visitor-badge">
   <img src="https://www.codewars.com/users/FilipeTorresBR/badges/micro"-->
-  <img src="https://github-readme-stats.vercel.app/api?username=filipetorresbr&show_icons=true&theme=tokyonight&hide_border=true" alt="Filipe Torres Github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipetorresbr&layout=compact&theme=tokyonight&hide_border=true" alt="Most usade languages">  
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=filipetorresbr&show_icons=true&theme=tokyonight&hide_border=true" alt="Filipe Torres Github stats">
+  <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipetorresbr&layout=compact&theme=tokyonight&hide_border=true" alt="Most usade languages">  
 </div>
