@@ -16,10 +16,7 @@
   Technologies that i like to work with
 </h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/-linux-white?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">    
-  <img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" alt="Git">    
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">    
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="Javascript">
   <img src="https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php" alt="PHP">
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" alt="Python">
