@@ -11,6 +11,9 @@
   <a href="https://linkedin.com/in/filipe-kaue">
     <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">    
   </a>
+  <a href="https://instagram.com/about_torrex">
+    <img src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
 <h2 align="center">
   Technologies that i like to work with
